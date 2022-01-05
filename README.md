@@ -99,4 +99,4 @@ observed the for our model we are getting average accuracy of 84.54% approximate
 learn model it is around 86.96 % approximately. These both models have almost same average 
 accuracies.
 
-![alt text](https://github.com//calvinwynne/Genetic_Algorithm-8Queens/blob/master/Images/training.gif?raw=true)
+![alt text](https://github.com/mishita3795/Logistic_Regression_from_scratch/blob/main/Data/accuracy_graph.PNG?raw=true)
