@@ -1,0 +1,2 @@
+# Logistic_Regression_from_scratch
+My own take on Logistic regression is that it is a supervised learning classification algorithm which is usually  used for the datasets which has more than one independent variable that determine an  outcome. Some of the classification examples are whether movie review is positive or not, rain or no rain, tumour is malignant or benign. There are two types of logistic regression  binary and multilinear logistic regression.
